@@ -1,0 +1,6 @@
+projectKey=Exam_final_MANTENIMIENTo
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=Exam_final_MANTENIMIENTo
+ceTaskId=AYlQ8B6nWSVWpkjzOGKt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlQ8B6nWSVWpkjzOGKt
